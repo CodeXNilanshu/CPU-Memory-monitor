@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPU-Memory monitor", "CPU-Memory monitor\CPU-Memory monitor.csproj", "{B60BD532-D287-4831-91AA-93363A08D755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B60BD532-D287-4831-91AA-93363A08D755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60BD532-D287-4831-91AA-93363A08D755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60BD532-D287-4831-91AA-93363A08D755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60BD532-D287-4831-91AA-93363A08D755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EC41365-0630-42BF-B687-AEA733CE8EDD}
+	EndGlobalSection
+EndGlobal
